@@ -328,7 +328,7 @@ b, strong {
 .dark-mode {
 	background: $dark-mode-color;
 	.navbar-light .navbar-nav .nav-link {
-		color: rgba(255,255,255,0.8);
+		color: rgba(0, 0, 0, 0.8);
 		&:hover {
 			color: $main-color;
 		}
@@ -340,7 +340,7 @@ b, strong {
 	    }
 	}
 	.small-text {
-		background: #0d0c15;
+		background: #ffffff;
 		color: $text-white;
 	}
 	.feature-card .uil,
